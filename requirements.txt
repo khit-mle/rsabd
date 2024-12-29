@@ -1,0 +1,5 @@
+luigi>=3.4.0
+pandas>=2.0.0
+requests>=2.31.0
+python-magic>=0.4.27
+patool>=1.12
