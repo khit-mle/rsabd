@@ -178,3 +178,9 @@ ai/
 dataset*/
 *.csv
 *.archive
+
+# Airflow
+airflow*
+
+# Cache
+*cache*
