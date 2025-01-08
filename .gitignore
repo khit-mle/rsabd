@@ -169,3 +169,21 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# AI assistant artifacts
+ai/
+.ai.*
+
+# Datasets
+dataset*/
+*.csv
+*.archive
+
+# Airflow
+airflow*
+
+# Cache
+*cache*
+
+# DNT_* pattern
+DNT_*
