@@ -184,3 +184,6 @@ airflow*
 
 # Cache
 *cache*
+
+# DNT_* pattern
+DNT_*
